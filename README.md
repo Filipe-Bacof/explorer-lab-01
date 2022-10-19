@@ -1,5 +1,3 @@
-estou na aula 1 - 21min 52seg
-
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
